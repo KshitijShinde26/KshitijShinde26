@@ -20,7 +20,7 @@
 </table>
 
 ```java
-public class Developer {
+public class Backend_Developer {
     public static void main(String[] args) {
         build();
         learn();
@@ -153,16 +153,24 @@ I regularly practice Data Structures and Algorithms using **Java**, sharpening a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KshitijShinde26&theme=tokyo-night&hide_border=true&area=true" alt="Dynamic GitHub Contribution Graph" width="98%" />
+<a href="https://github.com/KshitijShinde26">
+  <img src="./assets/github-contribution-graph.svg" alt="Kshitij Shinde GitHub Contribution Graph" width="98%" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KshitijShinde26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KshitijShinde26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<a href="https://github.com/KshitijShinde26">
+  <img src="./assets/github-stats.svg" alt="Kshitij Shinde GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/KshitijShinde26">
+  <img src="./assets/streak-stats.svg" alt="Kshitij Shinde GitHub Streak" width="48%" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijShinde26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="52%" />
+<a href="https://github.com/KshitijShinde26">
+  <img src="./assets/top-languages.svg" alt="Kshitij Shinde Top Languages" width="60%" />
+</a>
 
 <p><sub><i>Note: Language distribution reflects client-side UI code in supporting projects; primary engineering focus is Java Backend Development.</i></sub></p>
 

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 200" width="380" height="200">
+  <style>
+    .bg { fill: #1a1b26; rx: 8px; }
+    .title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .stat-label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .stat-val { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7dcfff; }
+  </style>
+  <rect width="100%" height="100%" class="bg" stroke="#2a2e3f" stroke-width="1" rx="8"/>
+  <text x="25" y="32" class="title">Top Languages in Repositories</text>
+  
+  <g transform="translate(25, 50)">
+    <svg width="330" height="8">
+      <rect width="100%" height="8" rx="4" fill="#24283b"/>
+      <g clip-path="url(#bar-clip)">
+        <rect x="0%" y="0" width="65.8%" height="8" fill="#b07219"/><rect x="65.8%" y="0" width="27.2%" height="8" fill="#da5b0b"/><rect x="93.0%" y="0" width="6.9%" height="8" fill="#3178c6"/>
+      </g>
+      <clipPath id="bar-clip"><rect width="100%" height="8" rx="4"/></clipPath>
+    </svg>
+  </g>
+  
+  
+      <circle cx="25" cy="86" r="5" fill="#b07219"/>
+      <text x="37" y="90" class="stat-label">Java</text>
+      <text x="140" y="90" class="stat-val">65.8%</text>
+    
+      <circle cx="195" cy="86" r="5" fill="#da5b0b"/>
+      <text x="207" y="90" class="stat-label">Jupyter Notebook</text>
+      <text x="310" y="90" class="stat-val">27.2%</text>
+    
+      <circle cx="25" cy="114" r="5" fill="#3178c6"/>
+      <text x="37" y="118" class="stat-label">TypeScript</text>
+      <text x="140" y="118" class="stat-val">6.9%</text>
+    
+</svg>
