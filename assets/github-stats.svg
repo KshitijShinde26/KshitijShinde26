@@ -20,7 +20,7 @@
     
     <!-- Total Contributions -->
     <text x="25" y="69" class="stat-label">Total Contributions:</text>
-    <text x="220" y="69" class="stat-val">178</text>
+    <text x="220" y="69" class="stat-val">187</text>
     
     <!-- Primary Focus -->
     <text x="25" y="96" class="stat-label">Primary Direction:</text>
