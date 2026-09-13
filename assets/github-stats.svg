@@ -16,11 +16,11 @@
     
     <!-- Repositories -->
     <text x="25" y="42" class="stat-label">Public Repositories:</text>
-    <text x="220" y="42" class="stat-val">13</text>
+    <text x="220" y="42" class="stat-val">12</text>
     
     <!-- Total Contributions -->
     <text x="25" y="69" class="stat-label">Total Contributions:</text>
-    <text x="220" y="69" class="stat-val">205</text>
+    <text x="220" y="69" class="stat-val">212</text>
     
     <!-- Primary Focus -->
     <text x="25" y="96" class="stat-label">Primary Direction:</text>
