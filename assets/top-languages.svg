@@ -12,7 +12,7 @@
     <svg width="330" height="8">
       <rect width="100%" height="8" rx="4" fill="#24283b"/>
       <g clip-path="url(#bar-clip)">
-        <rect x="0%" y="0" width="65.6%" height="8" fill="#b07219"/><rect x="65.6%" y="0" width="27.2%" height="8" fill="#da5b0b"/><rect x="92.8%" y="0" width="6.9%" height="8" fill="#3178c6"/><rect x="99.7%" y="0" width="0.2%" height="8" fill="#7aa2f7"/>
+        <rect x="0%" y="0" width="65.6%" height="8" fill="#b07219"/><rect x="65.6%" y="0" width="27.2%" height="8" fill="#da5b0b"/><rect x="92.8%" y="0" width="6.9%" height="8" fill="#3178c6"/><rect x="99.7%" y="0" width="0.3%" height="8" fill="#7aa2f7"/>
       </g>
       <clipPath id="bar-clip"><rect width="100%" height="8" rx="4"/></clipPath>
     </svg>
@@ -33,6 +33,6 @@
     
       <circle cx="195" cy="114" r="5" fill="#7aa2f7"/>
       <text x="207" y="118" class="stat-label">Python</text>
-      <text x="310" y="118" class="stat-val">0.2%</text>
+      <text x="310" y="118" class="stat-val">0.3%</text>
     
 </svg>
