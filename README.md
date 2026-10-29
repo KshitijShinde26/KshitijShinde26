@@ -219,4 +219,3 @@ I practice Data Structures and Algorithms using Java to strengthen problem-solvi
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=KshitijShinde26&icon=0&color=0)](https://visitcount.itsvg.in)
